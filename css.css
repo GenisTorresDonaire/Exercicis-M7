@@ -1,7 +1,29 @@
 body{
 	background-color: #fefe83;
+	align-content: center;
 }
 
-.Calendario{
+h1{
+	text-align: center;
+}
+
+#Calendario {
+	margin: 0 auto;
+	background-color: white;
+	font-family: Times;
+	width: 1000px;
+
+}
+
+#Calendario th{
+	background-color: orange;
+	font-family: Times;
 	
+}
+
+#Calendario caption{
+	background-color: #4f56f0;
+	font-family: Times;
+	font-weight: bold;
+	color: white;
 }
